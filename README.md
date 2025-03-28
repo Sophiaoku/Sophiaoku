@@ -30,12 +30,12 @@ And when I am not working as an agronomist, I am dedicating my time to shaping a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sophiaoku) 
 
 <!-- Bio Stats Sophia -->
-
+**🌐 Git Stats:**<br/>
 ![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sophiaoku&show_icons=true&theme=radical)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sophiaoku&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sophiaoku&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+**🏆 GitHub Trophies**<br/>
 ![](https://github-profile-trophy.vercel.app/?username=Sophiaoku&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
