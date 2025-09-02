@@ -11,7 +11,7 @@ And when I am not working as an agronomist, I am dedicating my time to shaping a
 📊**What I’m Working On:** <br/>
 -  Nutrient Recommendation Models: Currently in the process of validating the soil nutrient recommendations for PEI through various research trials happening across the province. All supervised by me!! <br/>
 -  Data Analytics & Visualization: All data analysis from the nutrient calibration trials are handled my me.<br/>
--  Machine Learning Projects: My most recent project is on developing a method of predicting turbo jet engine failure using NASA's Jet Engine Dataset, all part of my practicum with [Sandian National Labs](https://www.sandia.gov/).<br/>
+-  Machine Learning Projects: My most recent project is on developing a method of predicting turbo jet engine failure using NASA's Jet Engine Dataset, all part of my practicum with [Sandia National Labs](https://www.sandia.gov/).<br/>
 -  Rockae Projects: Currently building an educational web application that will help make learning easier! check out [Rockae](https://rockae.com/).<br/>
 
 🔥**Technical Skills:** <br/>
