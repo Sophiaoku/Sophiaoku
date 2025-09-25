@@ -2,7 +2,7 @@
 <!-- Bio Sophia-->
 ## Hi, I'm Sophia!
 
-**Agronomist and Quality Assurance Engineer**
+**Agronomist and Data Scientist**
 
 I'm an agronomist with a passion for integrating data science, machine learning, and software development into agriculture to promote sustainable practices. I specialize in soil nutrient management, precision agronomy, and nutrient recommendation systems. I am currently in charge of the soil nutrient calibration trials for the Government of Prince Edward Island.<br/>
 
